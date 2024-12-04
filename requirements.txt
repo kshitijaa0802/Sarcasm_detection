@@ -1,0 +1,7 @@
+transformers
+torch
+torchvision
+numpy
+streamlit
+librosa
+opencv-python-headless
