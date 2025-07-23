@@ -6,7 +6,7 @@ This project aims to detect sarcasm in conversations using multimodal data: **te
 - Python
 - PyTorch
 - Transformers (BERT)
-- OpenCV / ResNet
+- ResNet
 - Librosa (for MFCC extraction)
 
 ## 📁 Dataset
@@ -25,7 +25,7 @@ This project aims to detect sarcasm in conversations using multimodal data: **te
 2. Install requirements  
    `pip install -r requirements.txt`
 3. Run training  
-   `python train.py` *(or Jupyter notebook)*
+   `python train.py` 
 
 ## 📊 Results
 - Validation Precision: 83%
@@ -33,7 +33,7 @@ This project aims to detect sarcasm in conversations using multimodal data: **te
 
 ## 📚 Publication
 This project was also published in IJIRCCE:  
-[DOI link here if available]
+DOI:10.15680/IJIRCCE.2025.1305250
 
 ## 🔗 Contact
 Developed by Kshitijaa Aigalikar  
