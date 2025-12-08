@@ -83,6 +83,7 @@ The attention mechanism enables the model to dynamically emphasize the most info
 ---
 
 ## 🚀 How to Run
+
 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/kshitijaa0802/Sarcasm_detection.git
@@ -97,6 +98,8 @@ streamlit run streamlit_app.py
 
 The application allows users to input text, upload visual context, and analyze audio cues to detect sarcasm.
 
+---
+
 🖥️ Streamlit Application Note
 
 GitHub viewers can only see the source code
@@ -108,6 +111,8 @@ OR
 
 Access a deployed Streamlit link (if available)
 
+---
+
 🔮 Future Work
 
 Multilingual and cross-cultural sarcasm detection
@@ -118,14 +123,20 @@ Transformer-based multimodal fusion
 
 Cloud deployment for public access
 
+---
+
 📜 Publication
 
 This work has been published in IJIRCCE (May 2025)
 📄 DOI: ADD_DOI_HERE
 
+---
+
 📄 License
 
 This project is licensed under the MIT License.
+
+---
 
 🤝 Acknowledgements
 
@@ -134,6 +145,8 @@ MuSTARD dataset creators
 Research community in multimodal learning
 
 Open-source deep learning and audio processing libraries
+
+---
 
 ## 🔗 Contact
 Developed by Kshitijaa Aigalikar  
