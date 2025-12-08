@@ -82,45 +82,59 @@ The attention mechanism enables the model to dynamically emphasize the most info
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/kshitijaa0802/Sarcasm_detection.git
-cd Sarcasm_detection
-
-## 🚀 How to Run
+🚀 How to Run
 
 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/kshitijaa0802/Sarcasm_detection.git
 cd Sarcasm_detection
 
+
 2️⃣ Install dependencies
+
 pip install -r requirements.txt
 
+
 3️⃣ Run the Streamlit Application
+
 cd app
 streamlit run streamlit_app.py
 
-The application allows users to input text, upload visual context, and analyze audio cues to detect sarcasm.
 
----
+The application allows users to:
 
-## 🖥️ Streamlit Application Note
+Input text for sarcasm detection
 
-GitHub viewers can only see the source code
+Upload images for multimodal input
 
-To use the application, users must:
+Analyze audio cues (if available)
 
-Run it locally
-OR
+See predicted label and probability scores in real time
 
-Access a deployed Streamlit link (if available)
+🖥️ Streamlit Application Note
 
----
+GitHub viewers can see only the source code. To use the application, users must:
 
-## 🔮 Future Work
+Run it locally following the instructions above
+
+OR access a deployed Streamlit link (if available)
+
+Screenshot Example: (optional, if you add images)
+
+
+📁 Directory Structure
+Sarcasm_detection/
+├── data/                 # Dataset folder (MuSTARD)
+├── models/               # Saved model weights
+├── notebooks/            # Jupyter notebooks for experiments
+├── app/                  # Streamlit application
+│   └── streamlit_app.py
+├── src/                  # Source code & utilities
+├── requirements.txt
+├── results/              # Evaluation results
+└── README.md
+
+🔮 Future Work
 
 Multilingual and cross-cultural sarcasm detection
 
@@ -130,22 +144,16 @@ Transformer-based multimodal fusion
 
 Cloud deployment for public access
 
----
+📜 Publication
 
-## 📜 Publication
-
-This work has been published in IJIRCCE (May 2025)
+Published in IJIRCCE (May 2025)
 📄 DOI: ADD_DOI_HERE
 
----
-
-## 📄 License
+📄 License
 
 This project is licensed under the MIT License.
 
----
-
-## 🤝 Acknowledgements
+🤝 Acknowledgements
 
 MuSTARD dataset creators
 
@@ -153,8 +161,8 @@ Research community in multimodal learning
 
 Open-source deep learning and audio processing libraries
 
----
+🔗 Contact
 
-## 🔗 Contact
-Developed by Kshitijaa Aigalikar  
-[LinkedIn](https://www.linkedin.com/in/kshitijaa-aigalikar)
+Developed by Kshitijaa Aigalikar
+LinkedIn
+
