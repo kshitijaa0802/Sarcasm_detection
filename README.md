@@ -112,6 +112,19 @@ access a deployed Streamlit link : https://appapppy-rbvxz5rucmc2smwvepappy5.stre
 Screenshot Example: (optional, if you add images)
 
 ---
+## 📁 Directory Structure
+Sarcasm_detection/
+├── data/                 # Dataset folder (MuSTARD)
+├── models/               # Saved model weights
+├── notebooks/            # Jupyter notebooks for experiments
+├── app/                  # Streamlit application
+│   └── streamlit_app.py
+├── src/                  # Source code & utilities
+├── requirements.txt
+├── results/              # Evaluation results
+└── README.md
+
+---
 
 ## 📁 Directory Structure
 '''
