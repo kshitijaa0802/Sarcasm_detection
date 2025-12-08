@@ -82,7 +82,7 @@ The attention mechanism enables the model to dynamically emphasize the most info
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 
 1️⃣ Clone the repository
 
@@ -111,7 +111,9 @@ Analyze audio cues (if available)
 
 See predicted label and probability scores in real time
 
-🖥️ Streamlit Application Note
+--
+
+## 🖥️ Streamlit Application Note
 
 GitHub viewers can see only the source code. To use the application, users must:
 
@@ -121,8 +123,9 @@ OR access a deployed Streamlit link (if available)
 
 Screenshot Example: (optional, if you add images)
 
+-- 
 
-📁 Directory Structure
+## 📁 Directory Structure
 Sarcasm_detection/
 ├── data/                 # Dataset folder (MuSTARD)
 ├── models/               # Saved model weights
@@ -134,7 +137,9 @@ Sarcasm_detection/
 ├── results/              # Evaluation results
 └── README.md
 
-🔮 Future Work
+--
+
+## 🔮 Future Work
 
 Multilingual and cross-cultural sarcasm detection
 
@@ -144,7 +149,9 @@ Transformer-based multimodal fusion
 
 Cloud deployment for public access
 
-📜 Publication
+--
+
+## 📜 Publication
 
 Published in IJIRCCE (May 2025)
 📄 DOI: ADD_DOI_HERE
@@ -153,7 +160,9 @@ Published in IJIRCCE (May 2025)
 
 This project is licensed under the MIT License.
 
-🤝 Acknowledgements
+--
+
+## 🤝 Acknowledgements
 
 MuSTARD dataset creators
 
@@ -161,7 +170,9 @@ Research community in multimodal learning
 
 Open-source deep learning and audio processing libraries
 
-🔗 Contact
+--
+
+## 🔗 Contact
 
 Developed by Kshitijaa Aigalikar
 LinkedIn
