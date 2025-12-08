@@ -29,10 +29,6 @@ The dataset used in this project includes:
 - Text captions
 - Corresponding images
 - Binary sarcasm labels (sarcastic / non-sarcastic)
-
-### Dataset Structure
-data/
-└── mustard/
 - [MUStARD Dataset](https://github.com/dair-iitd/MUStARD)
 
 ---
@@ -117,7 +113,8 @@ Screenshot Example: (optional, if you add images)
 
 ---
 
-### 📁 Directory Structure
+## 📁 Directory Structure
+'''
 Sarcasm_detection/
 ├── data/                 # Dataset folder (MuSTARD)
 ├── models/               # Saved model weights
@@ -128,7 +125,7 @@ Sarcasm_detection/
 ├── requirements.txt
 ├── results/              # Evaluation results
 └── README.md
-
+'''
 
 ---
 
