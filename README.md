@@ -74,21 +74,28 @@ The attention mechanism enables the model to dynamically emphasize the most info
 ## 🚀 How to Run
 
 1️⃣ Clone the repository
+
 git clone https://github.com/kshitijaa0802/Sarcasm_detection.git cd Sarcasm_detection
 
 
 2️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 
 3️⃣ Run the Streamlit Application
+
 cd app
 streamlit run streamlit_app.py
 
 The application allows users to:
+
 Input text for sarcasm detection
+
 Upload images for multimodal input
+
 Analyze audio cues (if available)
+
 See predicted label and probability scores in real time
 
 ---
@@ -96,8 +103,11 @@ See predicted label and probability scores in real time
 ## 🖥️ Streamlit Application Note
 
 GitHub viewers can see only the source code. To use the application, users must:
+
 Run it locally following the instructions above
+
 OR
+
 access a deployed Streamlit link : https://appapppy-rbvxz5rucmc2smwvepappy5.streamlit.app/
 
 Screenshot Example: (optional, if you add images)
