@@ -111,16 +111,16 @@ See predicted label and probability scores in real time
 ## 🖥️ Streamlit Application Note
 
 GitHub viewers can see only the source code. To use the application, users must:
-
 Run it locally following the instructions above
-
-OR access a deployed Streamlit link (if available)
+OR
+access a deployed Streamlit link : https://appapppy-rbvxz5rucmc2smwvepappy5.streamlit.app/
 
 Screenshot Example: (optional, if you add images)
 
 ---
 
 ## 📁 Directory Structure
+
 Sarcasm_detection/
 ├── data/                 # Dataset folder (MuSTARD)
 ├── models/               # Saved model weights
@@ -150,9 +150,11 @@ Cloud deployment for public access
 ## 📜 Publication
 
 Published in IJIRCCE (May 2025)
-📄 DOI: ADD_DOI_HERE
+📄 DOI: 10.15680/IJIRCCE.2025.1305250
 
-📄 License
+---
+
+## 📄 License
 
 This project is licensed under the MIT License.
 
@@ -171,5 +173,5 @@ Open-source deep learning and audio processing libraries
 ## 🔗 Contact
 
 Developed by Kshitijaa Aigalikar
-LinkedIn
+LinkedIn : https://linkedin.com/in/kshitijaa-aigalikar
 
