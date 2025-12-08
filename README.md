@@ -100,7 +100,7 @@ The application allows users to input text, upload visual context, and analyze a
 
 ---
 
-🖥️ Streamlit Application Note
+## 🖥️ Streamlit Application Note
 
 GitHub viewers can only see the source code
 
@@ -113,7 +113,7 @@ Access a deployed Streamlit link (if available)
 
 ---
 
-🔮 Future Work
+## 🔮 Future Work
 
 Multilingual and cross-cultural sarcasm detection
 
@@ -125,20 +125,20 @@ Cloud deployment for public access
 
 ---
 
-📜 Publication
+## 📜 Publication
 
 This work has been published in IJIRCCE (May 2025)
 📄 DOI: ADD_DOI_HERE
 
 ---
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-🤝 Acknowledgements
+## 🤝 Acknowledgements
 
 MuSTARD dataset creators
 
