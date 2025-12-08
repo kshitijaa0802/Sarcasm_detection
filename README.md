@@ -64,11 +64,6 @@ The attention mechanism enables the model to dynamically emphasize the most info
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## 📊 Results
 
 | Metric     | Score |
@@ -111,7 +106,7 @@ Analyze audio cues (if available)
 
 See predicted label and probability scores in real time
 
---
+---
 
 ## 🖥️ Streamlit Application Note
 
@@ -123,7 +118,7 @@ OR access a deployed Streamlit link (if available)
 
 Screenshot Example: (optional, if you add images)
 
--- 
+---
 
 ## 📁 Directory Structure
 Sarcasm_detection/
@@ -137,7 +132,8 @@ Sarcasm_detection/
 ├── results/              # Evaluation results
 └── README.md
 
---
+
+---
 
 ## 🔮 Future Work
 
@@ -149,7 +145,7 @@ Transformer-based multimodal fusion
 
 Cloud deployment for public access
 
---
+---
 
 ## 📜 Publication
 
@@ -160,7 +156,7 @@ Published in IJIRCCE (May 2025)
 
 This project is licensed under the MIT License.
 
---
+---
 
 ## 🤝 Acknowledgements
 
@@ -170,7 +166,7 @@ Research community in multimodal learning
 
 Open-source deep learning and audio processing libraries
 
---
+---
 
 ## 🔗 Contact
 
