@@ -120,7 +120,6 @@ Screenshot Example: (optional, if you add images)
 ---
 
 ### 📁 Directory Structure
-
 Sarcasm_detection/
 ├── data/                 # Dataset folder (MuSTARD)
 ├── models/               # Saved model weights
