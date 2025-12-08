@@ -143,11 +143,11 @@ This project is licensed under the MIT License.
 
 ## 🤝 Acknowledgements
 
-MuSTARD dataset creators
+- MuSTARD dataset creators
 
-Research community in multimodal learning
+- Research community in multimodal learning
 
-Open-source deep learning and audio processing libraries
+- Open-source deep learning and audio processing libraries
 
 ---
 
