@@ -33,42 +33,108 @@ The dataset used in this project includes:
 > ⚠️ Due to size and usage restrictions, the dataset is not uploaded to this repository.
 
 ### Dataset Structure
-# Multimodal Sarcasm Detection Using Attention Mechanism
-
-This project aims to detect sarcasm in conversations using multimodal data: **text (BERT)**, **audio (MFCC)**, and **visual (ResNet)** features, combined using **attention mechanisms**.
-
-## 🧠 Technologies Used
-- Python
-- PyTorch
-- Transformers (BERT)
-- ResNet
-- Librosa (for MFCC extraction)
-
-## 📁 Dataset
+data/
+└── mustard/
 - [MUStARD Dataset](https://github.com/dair-iitd/MUStARD)
 
-## 🧪 Project Overview
-- Extracted BERT embeddings from utterances
-- Extracted ResNet features from video frames
-- Extracted MFCC features from audio
-- Used an attention mechanism to fuse all 3 modalities
-- Final model achieved **83% precision**
+---
 
-## 🛠️ How to Run
-1. Clone the repo  
-   `git clone https://github.com/kshitijaa0802/Sarcasm_detection`
-2. Install requirements  
-   `pip install -r requirements.txt`
-3. Run training  
-   `python train.py` 
+## 🧠 Model Architecture
+
+- **Text Encoder:** BERT-based textual feature extractor  
+- **Visual Encoder:** CNN-based visual feature extractor  
+- **Audio Encoder:** MFCC-based audio feature extraction  
+- **Fusion Strategy:** Attention-based multimodal fusion  
+- **Classifier:** Fully connected neural network  
+
+The attention mechanism enables the model to dynamically emphasize the most informative modality (text, visual, or audio) during sarcasm prediction.
+
+---
+
+## ⚙️ Project Workflow
+
+1. Load MuSTARD dataset  
+2. Extract features:
+   - Textual embeddings (BERT)
+   - Visual features (CNN)
+   - Audio features (MFCC)
+3. Fuse multimodal features using attention  
+4. Train and evaluate the model  
+5. Perform real-time inference using Streamlit  
+
+---
+
+## 📁 Project Structure
+
+
+---
 
 ## 📊 Results
-- Validation Precision: 83%
-- Tools: PyTorch, HuggingFace Transformers
 
-## 📚 Publication
-This project was also published in IJIRCCE:  
-DOI:10.15680/IJIRCCE.2025.1305250
+| Metric     | Score |
+|------------|-------|
+| Accuracy   | **XX%** |
+| Precision | **XX** |
+| Recall    | **XX** |
+| F1-Score  | **XX** |
+
+> Detailed evaluation results are available in the `results/` directory.
+
+---
+
+## 🚀 How to Run
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/kshitijaa0802/Sarcasm_detection.git
+cd Sarcasm_detection
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Streamlit Application
+cd app
+streamlit run streamlit_app.py
+
+The application allows users to input text, upload visual context, and analyze audio cues to detect sarcasm.
+
+🖥️ Streamlit Application Note
+
+GitHub viewers can only see the source code
+
+To use the application, users must:
+
+Run it locally
+OR
+
+Access a deployed Streamlit link (if available)
+
+🔮 Future Work
+
+Multilingual and cross-cultural sarcasm detection
+
+Video-level multimodal sarcasm analysis
+
+Transformer-based multimodal fusion
+
+Cloud deployment for public access
+
+📜 Publication
+
+This work has been published in IJIRCCE (May 2025)
+📄 DOI: ADD_DOI_HERE
+
+📄 License
+
+This project is licensed under the MIT License.
+
+🤝 Acknowledgements
+
+MuSTARD dataset creators
+
+Research community in multimodal learning
+
+Open-source deep learning and audio processing libraries
 
 ## 🔗 Contact
 Developed by Kshitijaa Aigalikar  
