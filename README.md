@@ -75,6 +75,10 @@ The attention mechanism enables the model to dynamically emphasize the most info
 
 1️⃣ Clone the repository
 
+```bash
+git clone https://github.com/kshitijaa0802/Sarcasm_detection.git
+cd Sarcasm_detection
+
 git clone https://github.com/kshitijaa0802/Sarcasm_detection.git cd Sarcasm_detection
 
 
