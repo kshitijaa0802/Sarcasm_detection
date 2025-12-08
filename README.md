@@ -30,8 +30,6 @@ The dataset used in this project includes:
 - Corresponding images
 - Binary sarcasm labels (sarcastic / non-sarcastic)
 
-> ⚠️ Due to size and usage restrictions, the dataset is not uploaded to this repository.
-
 ### Dataset Structure
 data/
 └── mustard/
