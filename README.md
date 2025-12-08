@@ -84,11 +84,13 @@ git clone https://github.com/kshitijaa0802/Sarcasm_detection.git cd Sarcasm_dete
 
 2️⃣ Install dependencies
 
+bash
 pip install -r requirements.txt
 
 
 3️⃣ Run the Streamlit Application
 
+bash
 cd app
 streamlit run streamlit_app.py
 
