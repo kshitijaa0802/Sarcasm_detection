@@ -130,6 +130,7 @@ Cloud deployment for public access
 ## 📜 Publication
 
 Published in IJIRCCE (May 2025)
+
 📄 DOI: 10.15680/IJIRCCE.2025.1305250
 
 ---
@@ -153,5 +154,6 @@ Open-source deep learning and audio processing libraries
 ## 🔗 Contact
 
 Developed by Kshitijaa Aigalikar
+
 LinkedIn : https://linkedin.com/in/kshitijaa-aigalikar
 
