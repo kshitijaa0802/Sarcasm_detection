@@ -88,15 +88,15 @@ pip install -r requirements.txt
 cd app
 streamlit run streamlit_app.py
 
-The application allows users to:
+### The application allows users to:
 
-Input text for sarcasm detection
+- Input text for sarcasm detection
 
-Upload images for multimodal input
+- Upload images for multimodal input
 
-Analyze audio cues (if available)
+- Analyze audio cues (if available)
 
-See predicted label and probability scores in real time
+- See predicted label and probability scores in real time
 
 ---
 
