@@ -119,7 +119,7 @@ Screenshot Example: (optional, if you add images)
 
 ---
 
-## 📁 Directory Structure
+### 📁 Directory Structure
 
 Sarcasm_detection/
 ├── data/                 # Dataset folder (MuSTARD)
